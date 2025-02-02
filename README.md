@@ -37,6 +37,6 @@ I'm a **Data Science Master's student** at **Technische Universität Hamburg**, 
 ## 📫 Connect with Me 📩
 - 📩 Email: [hetparekh16@gmail.com](mailto:hetparekh16@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/het-parekh](https://linkedin.com/in/het-parekh)
-- 🏗️ GitHub: [github.com/HetParekh](https://github.com/HetParekh)
+- 🏗️ GitHub: [github.com/HetParekh](https://github.com/hetparekh16)
 
 Looking forward to collaborating on exciting projects! 🚀✨💡

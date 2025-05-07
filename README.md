@@ -24,12 +24,12 @@ I'm a **Data Science Master's student** at **Technische Universität Hamburg**, 
 - Data-Driven Analysis, Econometrics, Revenue Management, Supply Chain Management
 
 ## Education 
-- **Master of Science in Data Science** – Technische Universität Hamburg (2023 - Present) 🎯
-- **Bachelor of Technology in Computer Engineering** – Charotar University of Science and Technology (2019 - 2023) 🎓💻
+- **Master of Science in Data Science** – Technische Universität Hamburg (2023 - Present) 
+- **Bachelor of Technology in Computer Engineering** – Charotar University of Science and Technology (2019 - 2023) 
 
 ##  Achievements 
-- **Runners-up** in the **Smart India Hackathon 2023** – Developed a **Project Sharing and Collaboration Portal** using **ReactJS, NodeJS, and Solidity**. 🏆
-- **International Conference at Cambridge** – Presented an **Automated Irrigation System** project based on **real-time soil data and AI-driven water optimization**. 🌍
+- **Runners-up** in the **Smart India Hackathon 2023** – Developed a **Project Sharing and Collaboration Portal** using **ReactJS, NodeJS, and Solidity**. 
+- **International Conference at Cambridge** – Presented an **Automated Irrigation System** project based on **real-time soil data and AI-driven water optimization**. 
 
 ## Languages 
 - **English**, **German**, **Hindi**, **Gujarati**

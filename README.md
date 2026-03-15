@@ -1,42 +1,62 @@
 # Hi, I'm Het Parekh! 👋
 
-## About Me 
-I'm a **Data Science Master's student** at **Technische Universität Hamburg**, specializing in **Machine Learning, Data Visualization, and Big Data Technologies**.  I have a strong background in **Python, Power BI, and Google Cloud Platform**, and I love building data-driven solutions that enhance user engagement and decision-making. 
+## About Me
 
-## Skills 
+I'm a **Data Science Master's student** at **Technische Universität Hamburg**, with a thesis on **heterogeneous data fusion for power grid transformation analysis** — integrating 5.7M+ renewable energy installations with multi-TB weather datasets to model generation uncertainty across Germany's transmission zones.
 
-### Programming:
-- Python, JavaScript, Java, MATLAB
+I bring 2+ years of hands-on experience building **ML-powered systems and data pipelines in production**, including forecasting and dynamic pricing models at **TUI Cruises**. I combine strong data science fundamentals with practical engineering skills in Python, SQL, and MLOps. Comfortable working in **German-language professional environments (B2)**.
 
-### Web Development:
-- HTML, CSS, JavaScript, ReactJS, WordPress, Shopify
+---
 
-### Data & Big Data Technologies:
-- Power BI, Tableau, MS Excel, Pandas, Matplotlib
-- Apache Hadoop, Apache Spark, Apache Kafka, Apache Flink
-- SQL, MongoDB, Redis
+## 🛠️ Skills
 
-### DevOps & Platforms:
-- Docker, Kubernetes, Jenkins
-- Linux, Google Cloud Platform
+### Programming
+Python, SQL, JavaScript
 
-### Other Skills:
-- Data-Driven Analysis, Econometrics, Revenue Management, Supply Chain Management
+### Machine Learning & AI
+scikit-learn, PyTorch, TensorFlow, Keras, LlamaIndex, Hugging Face, CrewAI, Ollama
 
-## Education 
-- **Master of Science in Data Science** – Technische Universität Hamburg (2023 - Present) 
-- **Bachelor of Technology in Computer Engineering** – Charotar University of Science and Technology (2019 - 2023) 
+### Data Engineering
+NumPy, Pandas, xarray, SciPy, DuckDB, Polars, Parquet, Apache Airflow, dbt, Streamlit, FastAPI, Plotly, Matplotlib
 
-##  Achievements 
-- **Runners-up** in the **Smart India Hackathon 2023** – Developed a **Project Sharing and Collaboration Portal** using **ReactJS, NodeJS, and Solidity**. 
-- **International Conference at Cambridge** – Presented an **Automated Irrigation System** project based on **real-time soil data and AI-driven water optimization**. 
+### MLOps & Tools
+Azure ML, MLflow, Docker, Git, CI/CD, Power BI, Pytest, Pydantic, Poetry
 
-## Languages 
-- **English**, **German**, **Hindi**, **Gujarati**
+### Web Development
+ReactJS, HTML, CSS, WordPress, Shopify
 
-##  Connect with Me 
-- Email: [hetparekh16@gmail.com](mailto:hetparekh16@gmail.com)
-- LinkedIn: [linkedin.com/in/het-parekh](https://linkedin.com/in/het-parekh)
-- GitHub: [github.com/hetparekh16](https://github.com/hetparekh16)
+### Domains
+Revenue Management, Renewable Energy
 
-Looking forward to collaborating on exciting projects! 
+---
+
+## 🎓 Education
+
+**M.Sc. Data Science** — Technische Universität Hamburg *(2023 – Present)*
+- Coursework: Machine Learning, Deep Learning, Big Data Analytics, Statistical Learning, Data Engineering
+- **Thesis:** Heterogeneous Data Fusion for Power Grid Transformation Analysis
+
+**B.Tech Computer Engineering** — Charotar University of Science and Technology *(2019 – 2023)*
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Runner-up, Smart India Hackathon 2023** — Developed a Project Sharing & Collaboration portal (ReactJS, NodeJS, Solidity); recognised at national level out of 10,000+ teams.
+- 🌍 **International Conference, University of Cambridge** — Presented research on automating irrigation systems via real-time soil quality detection, focused on Sustainable Development Goals.
+
+---
+
+## 🌐 Languages
+
+**German** – Intermediate (B2) &nbsp;·&nbsp; **English** – Fluent (C1) &nbsp;·&nbsp; **Hindi** – Fluent &nbsp;·&nbsp; **Gujarati** – Mother Tongue
+
+---
+
+## 📬 Connect with Me
+
+- 📧 Email: [hetparekh16@gmail.com](mailto:hetparekh16@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/het-parekh](https://linkedin.com/in/het-parekh)
+- 🐙 GitHub: [github.com/hetparekh16](https://github.com/hetparekh16)
+
+Looking forward to collaborating on exciting projects!
